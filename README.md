@@ -1,3 +1,3 @@
 # Image #
 
-(!alt)[0001.jpg]
+![alt](0001.jpg)
