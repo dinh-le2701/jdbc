@@ -25,5 +25,10 @@ public class GiaoVien {
 		this.tenGV = tenGV;
 	}
 	
+	public GiaoVien(String maGV) {
+		super();
+		this.maGV = maGV;
+	}
+	
 	
 }
